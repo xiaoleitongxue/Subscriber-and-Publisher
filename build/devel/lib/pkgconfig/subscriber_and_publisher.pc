@@ -1,8 +1,0 @@
-prefix=/home/lilei/ros_workspace/src/subscriber_and_publisher/build/devel
-
-Name: subscriber_and_publisher
-Description: Description of subscriber_and_publisher
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
