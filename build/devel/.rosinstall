@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lilei/ros_workspace/src/subscriber_and_publisher/build/devel/setup.sh
